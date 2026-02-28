@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STM32H723VGT6")(type "KiCad")(uri "${KIPRJMOD}/Tesi_library/STM32H723VGT6.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32G474RET6")(type "KiCad")(uri "${KIPRJMOD}/Tesi_library/STM32G474RET6.kicad_sym")(options "")(descr ""))
+  (lib (name "Eagle_Connectors")(type "KiCad")(uri "${KIPRJMOD}/Tesi_library/Eagle_Connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "FDS8858CZ")(type "KiCad")(uri "${KIPRJMOD}/Tesi_library/FDS8858CZ.kicad_sym")(options "")(descr ""))
+)

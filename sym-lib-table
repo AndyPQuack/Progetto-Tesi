@@ -9,4 +9,5 @@
   (lib (name "S2B-PH-K-S_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/Tesi_library/S2B-PH-K-S_LF__SN_.kicad_sym")(options "")(descr ""))
   (lib (name "TLC272BCDR")(type "KiCad")(uri "${KIPRJMOD}/Tesi_library/TLC272BCDR.kicad_sym")(options "")(descr ""))
   (lib (name "SP4020-01FTG-C")(type "KiCad")(uri "${KIPRJMOD}/Tesi_library/SP4020-01FTG-C.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32C092RBT6")(type "KiCad")(uri "${KIPRJMOD}/Tesi_library/STM32C092RBT6.kicad_sym")(options "")(descr ""))
 )
